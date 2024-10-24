@@ -22,4 +22,4 @@
 
 
 
-<img src="E:\github\oframe\img\1.png" alt="1" style="zoom: 67%;" />
+<img src="img\1.png" alt="1" style="zoom: 67%;" />
